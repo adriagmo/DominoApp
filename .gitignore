@@ -49,6 +49,10 @@ build/
 *.pidb
 *.log
 *.scc
+*.exe
+*.pdb
+*.manifest
+*.cache
 
 # Visual C++ cache files
 ipch/
