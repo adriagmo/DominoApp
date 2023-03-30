@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "80zkoNQVdvjmGPJ+8VwHdP1jZ3EJO+/ssvH4EKSe3b/xdS7ivuUMrkHVC4iVoDKr/NCK1VVJHIJYMP9hD2ZF4g==",
+  "dgSpecHash": "8I/RC0DPnOC8WpYDl4UwEbJfOKFp+O+qy2HX14nnKkxanVb+ZTvVaKOCOVJeU2VIO6ztYwmpiWlQbXK3HYuClA==",
   "success": true,
-  "projectFilePath": "D:\\Source\\Repos\\DominoesApp\\src\\Dominoes\\Dominoes.csproj",
+  "projectFilePath": "E:\\Repos\\test\\src\\Dominoes\\Dominoes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adri\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.5\\microsoft.aspnetcore.authentication.jwtbearer.5.0.5.nupkg.sha512",
     "C:\\Users\\Adri\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

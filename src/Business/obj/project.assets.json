@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\Repos\\DominoesApp\\src\\Business\\Business.csproj",
+      "projectUniqueName": "E:\\Repos\\test\\src\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "D:\\Source\\Repos\\DominoesApp\\src\\Business\\Business.csproj",
+      "projectPath": "E:\\Repos\\test\\src\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\Adri\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\Repos\\DominoesApp\\src\\Business\\obj\\",
+      "outputPath": "E:\\Repos\\test\\src\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
