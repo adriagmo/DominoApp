@@ -168,3 +168,4 @@ packages/
 
 *.sqlite-journal
 *.json
+/.vs/Dominoes/DesignTimeBuild/.dtbcache.v2
